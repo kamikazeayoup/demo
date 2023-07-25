@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dOP0X3cXyUqlb5OyzmdXmuD5QF/DFD4NJzLj05YscV74i2hpYy+GUrBjiJl9mWjQmDor1kLCRv2fplSQ8QK8A==",
+  "success": true,
+  "projectFilePath": "D:\\COURSES\\C#\\codes\\TEST\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
