@@ -32,7 +32,7 @@ namespace HelloWorld
             for (int i = 0; i < 31; i++)
             {
                 Int64 number = Convert.ToInt64(Math.Pow(2, i));
-                if (number == n) return true;
+                if (number == n) return ttrue;
               
             }
             return false;
