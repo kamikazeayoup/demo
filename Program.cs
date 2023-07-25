@@ -5,6 +5,7 @@ using System.Linq;
 using Baseline.Reflection;
 using System.ComponentModel.DataAnnotations;
 using System.Text.RegularExpressions;
+using System.Globalization;
 
 namespace HelloWorld
 {
@@ -17,7 +18,7 @@ namespace HelloWorld
 
             string newstr = Regex.Replace(s , "[^a-zA-Z0-9]" , "").ToLower();
             Console.WriteLine(newstr);
-            char[] newch = newstr.ToLower().ToCharArray() ;
+            char[] newch = newstr.ToCharArray() ;
             Array.Reverse(newch);
             string cmp = new string(newch);
 
